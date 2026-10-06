@@ -1,10 +1,5 @@
 # Smart Campus Complaint & Service System
 
-Full-stack DevOps CIE demonstration project 4.
-
-## Stack
-
-Frontend:
 HTML + CSS + JavaScript
 
 Backend:
