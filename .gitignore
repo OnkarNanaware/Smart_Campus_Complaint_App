@@ -7,3 +7,5 @@ complaints.db
 .env
 .vscode/
 .idea/
+# Kubernetes dependency cloned locally
+kube-state-metrics/
