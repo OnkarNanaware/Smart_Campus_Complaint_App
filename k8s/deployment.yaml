@@ -24,7 +24,7 @@ spec:
 
         - name: campus-app
 
-          image: campus-app:v1
+          image: rohit
 
           imagePullPolicy: Never
 
